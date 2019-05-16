@@ -1,2 +1,2 @@
-# RPA_AutomationFilter
-A filter to detect automatable actions for robotic process mining
+# Automatable Routines Discoverer
+A tool to discover automatable routines for robotic process mining
